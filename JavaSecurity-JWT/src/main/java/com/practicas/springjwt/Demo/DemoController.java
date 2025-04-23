@@ -1,4 +1,4 @@
-package com.practicas.springjwt.demo;
+package com.practicas.springjwt.Demo;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
